@@ -1,10 +1,18 @@
 <!-- README.md -->
-<p align="right">
-  <img width="300" alt="UEG Logo" src="assets/ueg_logo.png">
-</p>
-
-## **UEG 机密档案 // CLASSIFIED**
-### **编号：Eric-Terminal**
+<!-- 使用表格进行布局，确保图片和标题在同一行 -->
+<table width="100%">
+  <tr valign="middle">
+    <td>
+      <!-- 将 Markdown 标题改为 HTML 标题，以确保在表格中正确渲染 -->
+      <h2><strong>UEG 机密档案 // CLASSIFIED</strong></h2>
+      <h3><strong>编号：Eric-Terminal</strong></h3>
+    </td>
+    <td align="right">
+      <!-- 建议：将宽度调整为 150-200 之间，以获得最佳视觉平衡 -->
+      <img width="180" alt="UEG Logo" src="assets/ueg_logo.png">
+    </td>
+  </tr>
+</table>
 
 > “今人不见古时月，今月曾经照古人”
 > 
@@ -104,10 +112,6 @@
   <a href="mailto:355864328@qq.com">
     <img src="https://img.shields.io/badge/建立安全通讯-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&logo=minutemailer&logoColor=white" alt="Profile views" />
 </p>
 
 
