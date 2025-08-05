@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
   <!-- 注意：我修正了这里的图片路径，在assets和文件名之间加了一个斜杠 / -->
-  <img align="right" width="900" alt="UEG Logo" src="assets/ueg_logo_light.png">
+  <img align="right" width="500" alt="UEG Logo" src="assets/ueg_logo_light.png">
 </picture>
 
 ## **UEG 机密档案 // CLASSIFIED**
