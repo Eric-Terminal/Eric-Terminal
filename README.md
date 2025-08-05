@@ -24,10 +24,8 @@
 
 ### **当前任务指令 // CURRENT DIRECTIVES**
 *此区域由 UEG 指挥中心自动更新，同步自特勤人员的置顶任务模块。*
-<!--START_SECTION:pinned_repos-->
-<!-- Action will automatically fill this section -->
-<!--END_SECTION:pinned_repos-->
-
+<!--AR-PINNED-REPOS-START-->
+<!--AR-PINNED-REPOS-END-->
 ---
 
 ### **授权技术规格 // AUTHORIZED TECH SPECS**
