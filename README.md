@@ -1,23 +1,36 @@
-<p align="right">
-  <img src="assets/ueg_logo.png" width="120" alt="UEG Logo">
-</p>
+<!-- README.md -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
+  <img align="right" width="150" alt="UEG Logo" src="assets/ueg_logo_light.png">
+</picture>
 
-### <ins>CLASSIFIED</ins>: Operative Profile "Eric-Terminal"
+## **UEG 机密档案 // CLASSIFIED**
+### **编号：Eric-Terminal**
 
-**Subject Identified:** Eric-Terminal
-**Primary Directives:** Advanced development in Artificial Intelligence, Autonomous Systems (Bots), and Embedded Firmware.
+> **特勤任务概述：** 致力于人工智能、自动化系统（机器人）及嵌入式固件领域的前沿开拓。
 
 ---
 
-#### **<ins>Current Operational Directives</ins>**
+### **档案详情 // PROFILE DETAILS**
 
+| 安全许可等级 | **IV (Top Secret)** |
+| :--- | :--- |
+| **行动代号** | `Eric-Terminal` |
+| **当前状态** | **活跃 (Active)** |
+| **专长领域** | AI 应用开发、多平台智能体、固件定制 |
+
+---
+
+### **当前任务指令 // CURRENT DIRECTIVES**
+*此区域由 UEG 指挥中心自动更新，同步自特勤人员的置顶任务模块。*
 <!--START_SECTION:pinned_repos-->
-<!-- Action will automatically fill this section. You should pin repos on your main profile page. -->
+<!-- Action will automatically fill this section -->
 <!--END_SECTION:pinned_repos-->
 
 ---
 
-#### **<ins>Authorized Technology Spectrum</ins>**
+### **授权技术规格 // AUTHORIZED TECH SPECS**
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -33,20 +46,27 @@
 
 ---
 
-#### **<ins>Performance & Activity Metrics</ins>**
+### **行为数据分析 // BEHAVIORAL DATA ANALYSIS**
 
-<!-- For Dark Mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&border_color=4e5458&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=ffffff&text_color=444&title_color=2f81f7&icon_color=2f81f7&border_color=e1e4e8&count_private=true">
-  <img alt="Eric-Terminal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true">
-</picture>
+<p align="center">
+  <!-- 动态贡献图，由 Action 生成 -->
+  <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/snake.svg" alt="Snake animation" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&border_color=4e5458">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=ffffff&text_color=444&title_color=2f81f7&border_color=e1e4e8">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact">
-</picture>
-
+<details align="center">
+  <summary>点击展开/折叠详细统计数据</summary>
+  <br>
+  <!-- 亮/暗模式自适应统计卡片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&border_color=4e5458&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=ffffff&text_color=444&title_color=2f81f7&icon_color=2f81f7&border_color=e1e4e8&count_private=true">
+    <img alt="Eric-Terminal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&border_color=4e5458">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=ffffff&text_color=444&title_color=2f81f7&border_color=e1e4e8">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact">
+  </picture>
+</details>
 
 // END OF FILE
