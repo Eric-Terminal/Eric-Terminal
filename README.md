@@ -102,18 +102,11 @@
 ### **通讯信道 // COMMUNICATION CHANNEL**
 
 <p align="center">
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:355864328@qq.com">
     <img src="https://img.shields.io/badge/建立安全通讯-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/your_linkedin_username">
-    <img src="https://img.shields.io/badge/查阅专业档案-0D69AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=flat" alt="Profile views" />
-</p>
 
 <hr>
 <p align="center">档案记录完毕 // END OF RECORD</p>
