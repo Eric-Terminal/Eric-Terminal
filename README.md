@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
-  <img align="right" width="120" alt="UEG Logo" src="assets.ueg_logo_light.png">
+  <img align="right" width="900" alt="UEG Logo" src="assets/ueg_logo_light.png">
 </picture>
 
 ## **UEG 机密档案 // CLASSIFIED**
@@ -14,11 +14,15 @@
 
 ---
 
-### **档案详情 // PROFILE DETAILS**
+### **功勋记录 // SERVICE RECORD**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Eric-Terminal&theme=onedark&column=7&no-frame=true&no-bg=true" alt="Trophies">
 </p>
+
+---
+
+### **档案详情 // PROFILE DETAILS**
 
 | 安全许可等级 | **IV (Top Secret)** | 行动代号 | `Eric-Terminal` |
 | :--- | :--- | :--- | :--- |
@@ -27,36 +31,33 @@
 
 ---
 
-### **当前任务指令 // CURRENT DIRECTIVES**
-*此区域由 UEG 指挥中心自动更新，同步自特勤人员的置顶任务模块。*
-<!-- Pinned Repos - Start -->
-<!-- Pinned Repos - End -->
+### **近期活动日志 // RECENT ACTIVITY LOG**
+*由指挥中心自动记录，同步特勤人员的公开任务动向。*
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-### **授权技术规格 // AUTHORIZED TECH SPECS**
+### **技术能力矩阵 // SKILL MATRIX**
 
-<table align="center">
-  <tr>
-    <td align="center"><strong>核心语言</strong></td>
-    <td align="center"><strong>框架 & 工具</strong></td>
-    <td align="center"><strong>开发环境</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-0D69AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <br>
-      <img src="https://img.shields.io/badge/C++-0D69AB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<table align="center" width="100%">
+  <tr align="center" valign="top">
+    <td width="33%">
+      <strong>核心语言 (Languages)</strong><br><br>
+      <img src="https://img.shields.io/badge/Python-★★★★★-0D69AB?style=flat-square" alt="Python"/><br>
+      <img src="https://img.shields.io/badge/C++-★★★★☆-0D69AB?style=flat-square" alt="C++"/><br>
+      <img src="https://img.shields.io/badge/HTML5-★★★☆☆-0D69AB?style=flat-square" alt="HTML5"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-0D69AB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <br>
-      <img src="https://img.shields.io/badge/Docker-0D69AB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <td width="33%">
+      <strong>工具 & 平台 (Tools & Platforms)</strong><br><br>
+      <img src="https://img.shields.io/badge/Git-★★★★★-0D69AB?style=flat-square" alt="Git"/><br>
+      <img src="https://img.shields.io/badge/Docker-★★★★☆-0D69AB?style=flat-square" alt="Docker"/><br>
+      <img src="https://img.shields.io/badge/Linux-★★★★★-0D69AB?style=flat-square" alt="Linux"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/VS_Code-0D69AB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-      <br>
-       <img src="https://img.shields.io/badge/macOS-0D69AB?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+    <td width="33%">
+      <strong>开发环境 (Environments)</strong><br><br>
+      <img src="https://img.shields.io/badge/VS_Code-★★★★★-0D69AB?style=flat-square" alt="VSCode"/><br>
+      <img src="https://img.shields.io/badge/macOS-★★★★★-0D69AB?style=flat-square" alt="macOS"/>
     </td>
   </tr>
 </table>
@@ -65,13 +66,20 @@
 
 ### **行为数据分析 // BEHAVIORAL DATA ANALYSIS**
 
+<table width="100%">
+<tr valign="top">
+<td width="50%">
+
 <p align="center">
-  <!-- 动态贡献图 -->
+  <strong>贡献路径图</strong><br>
   <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/snake.svg" alt="Snake animation" />
 </p>
 
+</td>
+<td width="50%">
+
 <p align="center">
-  <!-- 亮/暗模式自适应统计卡片 -->
+  <strong>综合统计数据</strong><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&border_color=4e5458&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=ffffff&text_color=444&title_color=2f81f7&icon_color=2f81f7&border_color=e1e4e8&count_private=true">
@@ -85,13 +93,21 @@
   </picture>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### **通讯信道 // COMMUNICATION CHANNEL**
 
 <p align="center">
   <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/建立通讯链接-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/建立安全通讯-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your_linkedin_username">
+    <img src="https://img.shields.io/badge/查阅专业档案-0D69AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -99,4 +115,5 @@
   <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=flat" alt="Profile views" />
 </p>
 
-// END OF FILE
+<hr>
+<p align="center">档案记录完毕 // END OF RECORD</p>
