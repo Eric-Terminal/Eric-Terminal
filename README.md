@@ -35,9 +35,8 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+<!-- activity:START --> 
+<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
@@ -47,20 +46,20 @@
     <td width="33%">
       <strong>核心语言 (Languages)</strong><br><br>
       <!-- 注意：下面的徽章样式已改为 for-the-badge，尺寸会变得很大 -->
-      <img src="https://img.shields.io/badge/Python-★★★★★-0D69AB?style=for-the-badge" alt="Python"/><br><br>
+      <img src="https://img.shields.io/badge/Python-★★★★☆-0D69AB?style=for-the-badge" alt="Python"/><br><br>
       <img src="https://img.shields.io/badge/C++-★★★★☆-0D69AB?style=for-the-badge" alt="C++"/><br><br>
       <img src="https://img.shields.io/badge/HTML5-★★★☆☆-0D69AB?style=for-the-badge" alt="HTML5"/>
     </td>
     <td width="33%">
       <strong>工具 & 平台 (Tools & Platforms)</strong><br><br>
-      <img src="https://img.shields.io/badge/Git-★★★★★-0D69AB?style=for-the-badge" alt="Git"/><br><br>
+      <img src="https://img.shields.io/badge/Git-★★★★☆-0D69AB?style=for-the-badge" alt="Git"/><br><br>
       <img src="https://img.shields.io/badge/Docker-★★★★☆-0D69AB?style=for-the-badge" alt="Docker"/><br><br>
-      <img src="https://img.shields.io/badge/Linux-★★★★★-0D69AB?style=for-the-badge" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Linux-★★★☆☆-0D69AB?style=for-the-badge" alt="Linux"/>
     </td>
     <td width="33%">
       <strong>开发环境 (Environments)</strong><br><br>
-      <img src="https://img.shields.io/badge/VS_Code-★★★★★-0D69AB?style=for-the-badge" alt="VSCode"/><br><br>
-      <img src="https://img.shields.io/badge/macOS-★★★★★-0D69AB?style=for-the-badge" alt="macOS"/>
+      <img src="https://img.shields.io/badge/VS_Code-★★★★☆-0D69AB?style=for-the-badge" alt="VSCode"/><br><br>
+      <img src="https://img.shields.io/badge/macOS-★★★★☆-0D69AB?style=for-the-badge" alt="macOS"/>
     </td>
   </tr>
 </table>
@@ -111,8 +110,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=flat" alt="Profile views" />
+  <!-- 修正：将 style=flat 改为 style=for-the-badge -->
+  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 <hr>
 <p align="center">档案记录完毕 // END OF RECORD</p>
