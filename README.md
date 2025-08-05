@@ -1,6 +1,6 @@
 <!-- README.md -->
 <p align="right">
-  <img width="400" alt="UEG Logo" src="assets/ueg_logo.png">
+  <img width="500" alt="UEG Logo" src="assets/ueg_logo.png">
 </p>
 
 ## **UEG 机密档案 // CLASSIFIED**
