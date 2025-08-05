@@ -18,6 +18,8 @@ jobs:
           readme_path: './README.md'
           committer_username: 'github-actions[bot]'
           committer_email: 'github-actions[bot]@users.noreply.github.com'
+          # 这里是关键，它指定了Action要寻找的注释名称是 "activity"
+          # 这将对应README里的 <!--START_SECTION:activity-->
           comment_tag_name: "activity"
           max_post_count: 5
           template: "> $title$ - `($date$)`"

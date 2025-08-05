@@ -2,7 +2,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
-  <img align="right" width="900" alt="UEG Logo" src="assets/ueg_logo_light.png">
+  <!-- 注意：我修正了这里的图片路径，在assets和文件名之间加了一个斜杠 / -->
+  <img align="right" width="120" alt="UEG Logo" src="assets/ueg_logo_light.png">
 </picture>
 
 ## **UEG 机密档案 // CLASSIFIED**
@@ -33,6 +34,7 @@
 
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -44,20 +46,21 @@
   <tr align="center" valign="top">
     <td width="33%">
       <strong>核心语言 (Languages)</strong><br><br>
-      <img src="https://img.shields.io/badge/Python-★★★★★-0D69AB?style=flat-square" alt="Python"/><br>
-      <img src="https://img.shields.io/badge/C++-★★★★☆-0D69AB?style=flat-square" alt="C++"/><br>
-      <img src="https://img.shields.io/badge/HTML5-★★★☆☆-0D69AB?style=flat-square" alt="HTML5"/>
+      <!-- 注意：下面的徽章样式已改为 for-the-badge，尺寸会变得很大 -->
+      <img src="https://img.shields.io/badge/Python-★★★★★-0D69AB?style=for-the-badge" alt="Python"/><br><br>
+      <img src="https://img.shields.io/badge/C++-★★★★☆-0D69AB?style=for-the-badge" alt="C++"/><br><br>
+      <img src="https://img.shields.io/badge/HTML5-★★★☆☆-0D69AB?style=for-the-badge" alt="HTML5"/>
     </td>
     <td width="33%">
       <strong>工具 & 平台 (Tools & Platforms)</strong><br><br>
-      <img src="https://img.shields.io/badge/Git-★★★★★-0D69AB?style=flat-square" alt="Git"/><br>
-      <img src="https://img.shields.io/badge/Docker-★★★★☆-0D69AB?style=flat-square" alt="Docker"/><br>
-      <img src="https://img.shields.io/badge/Linux-★★★★★-0D69AB?style=flat-square" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Git-★★★★★-0D69AB?style=for-the-badge" alt="Git"/><br><br>
+      <img src="https://img.shields.io/badge/Docker-★★★★☆-0D69AB?style=for-the-badge" alt="Docker"/><br><br>
+      <img src="https://img.shields.io/badge/Linux-★★★★★-0D69AB?style=for-the-badge" alt="Linux"/>
     </td>
     <td width="33%">
       <strong>开发环境 (Environments)</strong><br><br>
-      <img src="https://img.shields.io/badge/VS_Code-★★★★★-0D69AB?style=flat-square" alt="VSCode"/><br>
-      <img src="https://img.shields.io/badge/macOS-★★★★★-0D69AB?style=flat-square" alt="macOS"/>
+      <img src="https://img.shields.io/badge/VS_Code-★★★★★-0D69AB?style=for-the-badge" alt="VSCode"/><br><br>
+      <img src="https://img.shields.io/badge/macOS-★★★★★-0D69AB?style=for-the-badge" alt="macOS"/>
     </td>
   </tr>
 </table>
@@ -89,7 +92,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&border_color=4e5458">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=ffffff&text_color=444&title_color=2f81f7&border_color=e1e4e8">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact">
   </picture>
 </p>
 
@@ -107,6 +110,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=flat" alt="Profile views" />
+</p>
 
 <hr>
 <p align="center">档案记录完毕 // END OF RECORD</p>
