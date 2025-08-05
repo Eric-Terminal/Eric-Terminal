@@ -2,45 +2,64 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
-  <img align="right" width="900" alt="UEG Logo" src="assets/ueg_logo_light.png">
+  <img align="right" width="120" alt="UEG Logo" src="assets.ueg_logo_light.png">
 </picture>
 
 ## **UEG 机密档案 // CLASSIFIED**
 ### **编号：Eric-Terminal**
 
+> “今人不见古时月，今月曾经照古人”
+> 
 > **特勤任务概述：** 致力于人工智能、自动化系统（机器人）及嵌入式固件领域的前沿开拓。
 
 ---
 
 ### **档案详情 // PROFILE DETAILS**
 
-| 安全许可等级 | **IV (Top Secret)** |
-| :--- | :--- |
-| **行动代号** | `Eric-Terminal` |
-| **当前状态** | **活跃 (Active)** |
-| **专长领域** | AI 应用开发、多平台智能体、固件定制 |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eric-Terminal&theme=onedark&column=7&no-frame=true&no-bg=true" alt="Trophies">
+</p>
+
+| 安全许可等级 | **IV (Top Secret)** | 行动代号 | `Eric-Terminal` |
+| :--- | :--- | :--- | :--- |
+| **当前状态** | **活跃 (Active)** | 所属部门 | 高级技术开发部 |
+| **专长领域** | AI 应用开发, 多平台智能体, 固件定制 | 注册日期 | 2022-12-25 |
 
 ---
 
 ### **当前任务指令 // CURRENT DIRECTIVES**
 *此区域由 UEG 指挥中心自动更新，同步自特勤人员的置顶任务模块。*
-<!--AR-PINNED-REPOS-START-->
-<!--AR-PINNED-REPOS-END-->
+<!-- Pinned Repos - Start -->
+<!-- Pinned Repos - End -->
+
 ---
 
 ### **授权技术规格 // AUTHORIZED TECH SPECS**
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-0D69AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/C++-0D69AB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/HTML5-0D69AB?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>核心语言</strong></td>
+    <td align="center"><strong>框架 & 工具</strong></td>
+    <td align="center"><strong>开发环境</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-0D69AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <br>
+      <img src="https://img.shields.io/badge/C++-0D69AB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-0D69AB?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <br>
+      <img src="https://img.shields.io/badge/Docker-0D69AB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VS_Code-0D69AB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+      <br>
+       <img src="https://img.shields.io/badge/macOS-0D69AB?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,3 +85,18 @@
   </picture>
 </p>
 
+---
+
+### **通讯信道 // COMMUNICATION CHANNEL**
+
+<p align="center">
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/建立通讯链接-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=flat" alt="Profile views" />
+</p>
+
+// END OF FILE
