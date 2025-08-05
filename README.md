@@ -109,8 +109,8 @@
 </p>
 
 <p align="center">
-  <!-- 修正：将 style=flat 改为 style=for-the-badge -->
-  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=for-the-badge" alt="Profile views" />
+  <!-- 修正：将 style 改为 plastic，获得一个干净、清晰的大尺寸徽章 -->
+  <img src="https://komarev.com/ghpvc/?username=Eric-Terminal&label=档案访问次数&color=blue&style=plastic" alt="Profile views" />
 </p>
 
 

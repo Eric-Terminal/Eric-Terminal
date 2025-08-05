@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # 每 8 小时运行一次
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # 关键修正：在这里增加 permissions 块，授予工作流写入内容的权限
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Eric-Terminal
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output # 将生成的图片推送到一个名为 output 的分支
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
