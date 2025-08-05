@@ -10,6 +10,11 @@ jobs:
   update-readme-with-activity:
     name: Update README with recent activity
     runs-on: ubuntu-latest
+
+    # 关键修正：在这里增加 permissions 块，授予工作流写入内容的权限
+    permissions:
+      contents: write 
+
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
@@ -18,8 +23,6 @@ jobs:
           readme_path: './README.md'
           committer_username: 'github-actions[bot]'
           committer_email: 'github-actions[bot]@users.noreply.github.com'
-          # 这里是关键，它指定了Action要寻找的注释名称是 "activity"
-          # 这将对应README里的 <!--START_SECTION:activity-->
           comment_tag_name: "activity"
           max_post_count: 5
           template: "> $title$ - `($date$)`"
