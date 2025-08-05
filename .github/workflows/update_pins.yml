@@ -1,19 +1,23 @@
-name: Update Pinned Repos
+name: Update Activity Feed
 
 on:
   schedule:
-    # 每 8 小时运行一次
-    - cron: '0 */8 * * *'
+    # 每小时运行一次
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-  update:
+  update-readme-with-activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Update Pinned Repositories
-        uses: awesome-labs/github-pinned-repos@v1.2.0 # 使用稳定且经过验证的版本
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://github.com/Eric-Terminal.atom"
+          readme_path: './README.md'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          comment_tag_name: "activity"
+          max_post_count: 5
+          template: "> $title$ - `($date$)`"
