@@ -38,7 +38,7 @@
 <table align="center" width="100%">
   <tr align="center" valign="top">
     <td width="33%">
-      <strong>核心语言 (Languages)</strong><br><br>
+      <strong>   核心语言 (Languages)   </strong><br><br>
       <!-- 注意：下面的徽章样式已改为 for-the-badge，尺寸会变得很大 -->
       <img src="https://img.shields.io/badge/Python-★★★★☆-0D69AB?style=for-the-badge" alt="Python"/><br><br>
       <img src="https://img.shields.io/badge/C++-★★★★☆-0D69AB?style=for-the-badge" alt="C++"/><br><br>
@@ -51,7 +51,7 @@
       <img src="https://img.shields.io/badge/Linux-★★★☆☆-0D69AB?style=for-the-badge" alt="Linux"/>
     </td>
     <td width="33%">
-      <strong>开发环境 (Environments)</strong><br><br>
+      <strong>   开发环境 (Environments)   </strong><br><br>
       <img src="https://img.shields.io/badge/VS_Code-★★★★☆-0D69AB?style=for-the-badge" alt="VSCode"/><br><br>
       <img src="https://img.shields.io/badge/macOS-★★★★☆-0D69AB?style=for-the-badge" alt="macOS"/>
     </td>
