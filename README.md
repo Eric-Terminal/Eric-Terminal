@@ -1,5 +1,5 @@
 <!-- README.md -->
-<img width="180" alt="UEG Logo" src="assets/ueg_logo.png" align="right">
+<img width="500" alt="UEG Logo" src="assets/ueg_logo.png" align="right">
 
 ## **UEG 机密档案 // CLASSIFIED**
 ### **编号：Eric-Terminal**
