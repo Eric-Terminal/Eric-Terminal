@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/ueg_logo_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/ueg_logo_light.png">
-  <img align="right" width="150" alt="UEG Logo" src="assets/ueg_logo_light.png">
+  <img align="right" width="900" alt="UEG Logo" src="assets/ueg_logo_light.png">
 </picture>
 
 ## **UEG 机密档案 // CLASSIFIED**
@@ -49,24 +49,22 @@
 ### **行为数据分析 // BEHAVIORAL DATA ANALYSIS**
 
 <p align="center">
-  <!-- 动态贡献图，由 Action 生成 -->
+  <!-- 动态贡献图 -->
   <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/snake.svg" alt="Snake animation" />
 </p>
 
-<details align="center">
-  <summary>点击展开/折叠详细统计数据</summary>
-  <br>
+<p align="center">
   <!-- 亮/暗模式自适应统计卡片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&border_color=4e5458&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&bg_color=ffffff&text_color=444&title_color=2f81f7&icon_color=2f81f7&border_color=e1e4e8&count_private=true">
     <img alt="Eric-Terminal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true">
   </picture>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&border_color=4e5458">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&bg_color=ffffff&text_color=444&title_color=2f81f7&border_color=e1e4e8">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact">
   </picture>
-</details>
+</p>
 
-// END OF FILE
