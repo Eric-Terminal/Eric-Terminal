@@ -99,7 +99,7 @@
 ### **通讯信道 // COMMUNICATION CHANNEL**
 
 <p align="center">
-  <a href="mailto:355864328@qq.com">
+  <a href="mailto:eric-terminal@qq.com">
     <img src="https://img.shields.io/badge/建立安全通讯-0D69AB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
 </p>
