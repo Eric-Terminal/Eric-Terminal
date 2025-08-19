@@ -30,7 +30,7 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!-- activity:START -->> Eric-Terminal starred yhny1001/proactive_talk_plugin$ - `(Mon Aug 18 2025 4:08 AM$)`> Eric-Terminal starred xming521/WeClone$ - `(Sun Aug 17 2025 1:07 PM$)`> Eric-Terminal forked Eric-Terminal/fuck-u-code from Done-0/fuck-u-code$ - `(Sun Aug 17 2025 1:04 PM$)`> Eric-Terminal starred Done-0/fuck-u-code$ - `(Sun Aug 17 2025 1:04 PM$)`> Eric-Terminal forked Eric-Terminal/iflow-cli from iflow-ai/iflow-cli$ - `(Sat Aug 16 2025 7:02 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal forked Eric-Terminal/gemini-cli from google-gemini/gemini-cli$ - `(Tue Aug 19 2025 5:22 PM$)`> Eric-Terminal starred google-gemini/gemini-cli$ - `(Tue Aug 19 2025 5:22 PM$)`> Eric-Terminal starred yhny1001/proactive_talk_plugin$ - `(Mon Aug 18 2025 4:08 AM$)`> Eric-Terminal starred xming521/WeClone$ - `(Sun Aug 17 2025 1:07 PM$)`> Eric-Terminal forked Eric-Terminal/fuck-u-code from Done-0/fuck-u-code$ - `(Sun Aug 17 2025 1:04 PM$)`<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
