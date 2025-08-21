@@ -30,7 +30,7 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!-- activity:START -->> Eric-Terminal starred adc666sav466/-gemini-$ - `(Thu Aug 21 2025 8:00 AM$)`> Eric-Terminal opened a pull request in MaiM-with-u/MaiBot$ - `(Thu Aug 21 2025 3:26 AM$)`> Eric-Terminal pushed to main in Eric-Terminal/MaiBot$ - `(Thu Aug 21 2025 3:23 AM$)`> Eric-Terminal pushed to dev in Eric-Terminal/MaiBot$ - `(Thu Aug 21 2025 3:22 AM$)`> Eric-Terminal pushed to dev in Eric-Terminal/MaiBot$ - `(Thu Aug 21 2025 3:22 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal starred SillyTavern/SillyTavern$ - `(Thu Aug 21 2025 8:37 AM$)`> Eric-Terminal starred adc666sav466/-gemini-$ - `(Thu Aug 21 2025 8:00 AM$)`> Eric-Terminal opened a pull request in MaiM-with-u/MaiBot$ - `(Thu Aug 21 2025 3:26 AM$)`> Eric-Terminal pushed to main in Eric-Terminal/MaiBot$ - `(Thu Aug 21 2025 3:23 AM$)`> Eric-Terminal pushed to dev in Eric-Terminal/MaiBot$ - `(Thu Aug 21 2025 3:22 AM$)`<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
