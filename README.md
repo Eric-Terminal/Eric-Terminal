@@ -30,7 +30,7 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!-- activity:START -->> Eric-Terminal commented on an issue in uv-k5-firmware-custom$ - `(Sat Aug 23 2025 10:38 AM$)`> Eric-Terminal starred RC-CHN/astrbot_plugin_error_notice$ - `(Fri Aug 22 2025 7:40 AM$)`> Eric-Terminal pushed MaiBot$ - `(Fri Aug 22 2025 2:12 AM$)`> Eric-Terminal opened a pull request in Miao-Yunzai$ - `(Thu Aug 21 2025 9:44 AM$)`> Eric-Terminal created a branch$ - `(Thu Aug 21 2025 9:42 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal starred khiqwq/owner_auth_plugin$ - `(Mon Aug 25 2025 8:24 AM$)`> Eric-Terminal commented on an issue in uv-k5-firmware-custom$ - `(Sat Aug 23 2025 10:38 AM$)`> Eric-Terminal starred RC-CHN/astrbot_plugin_error_notice$ - `(Fri Aug 22 2025 7:40 AM$)`> Eric-Terminal pushed MaiBot$ - `(Fri Aug 22 2025 2:12 AM$)`> Eric-Terminal opened a pull request in Miao-Yunzai$ - `(Thu Aug 21 2025 9:44 AM$)`<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
