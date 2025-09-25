@@ -30,7 +30,7 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!-- activity:START -->> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Thu Sep 25 2025 3:01 AM$)`> Eric-Terminal starred wgd-ng/HAGMI$ - `(Thu Sep 25 2025 1:22 AM$)`> Eric-Terminal commented on an issue in hajimi$ - `(Wed Sep 24 2025 9:52 AM$)`> Eric-Terminal commented on an issue in hajimi$ - `(Mon Sep 22 2025 4:31 AM$)`> Eric-Terminal commented on an issue in hajimi$ - `(Mon Sep 22 2025 4:31 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal released v1.0-assets at Eric-Terminal/ETOS-LLM-Studio$ - `(Thu Sep 25 2025 5:20 AM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Thu Sep 25 2025 4:10 AM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Thu Sep 25 2025 3:46 AM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Thu Sep 25 2025 3:35 AM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Thu Sep 25 2025 3:25 AM$)`<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
