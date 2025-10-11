@@ -30,7 +30,7 @@
 ### **近期活动日志 // RECENT ACTIVITY LOG**
 *由指挥中心自动记录，同步特勤人员的公开任务动向。*
 
-<!-- activity:START -->> Eric-Terminal starred shinyflvre/Mate-Engine$ - `(Wed Oct 08 2025 4:48 AM$)`> Eric-Terminal starred MoFox-Studio/MoFox_Bot$ - `(Tue Oct 07 2025 5:30 AM$)`> Eric-Terminal pushed Darock-Bili$ - `(Tue Oct 07 2025 4:08 AM$)`> Eric-Terminal pushed swift-transformers$ - `(Sun Oct 05 2025 9:46 AM$)`> Eric-Terminal pushed swift-transformers$ - `(Sun Oct 05 2025 9:45 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal starred Eric-Terminal/Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Sat Oct 11 2025 2:04 PM$)`> Eric-Terminal pushed Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Sat Oct 11 2025 1:36 PM$)`> Eric-Terminal pushed Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Sat Oct 11 2025 1:35 PM$)`> Eric-Terminal pushed Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Sat Oct 11 2025 1:34 PM$)`> Eric-Terminal pushed Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Sat Oct 11 2025 1:32 PM$)`<!-- activity:END -->
 ---
 
 ### **技术能力矩阵 // SKILL MATRIX**
