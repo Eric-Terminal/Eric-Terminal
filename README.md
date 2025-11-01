@@ -213,8 +213,8 @@ timeline
 
 <div align="center" style="padding:0 16px;">
   <div style="max-width:820px;background-color:#0F213C;border-radius:24px;padding:24px 28px;border:1px solid rgba(94,188,255,0.3);text-align:left;">
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
+    <!-- activity:START -->
+    <!-- activity:END -->
   </div>
 </div>
 
