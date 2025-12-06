@@ -1,0 +1,28 @@
+<svg width="1080" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1B2A;stop-opacity:0.95" />
+      <stop offset="100%" style="stop-color:#112240;stop-opacity:0.98" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- 主卡片背景 -->
+  <rect x="0" y="0" width="1080" height="400" rx="32" ry="32" fill="url(#bg-gradient)" 
+        stroke="rgba(88,186,255,0.28)" stroke-width="1" filter="url(#glow)"/>
+  
+  <!-- 左侧装饰线 -->
+  <line x1="20" y1="30" x2="20" y2="370" stroke="#52C1FF" stroke-width="2" opacity="0.3"/>
+  
+  <!-- 角落装饰 -->
+  <circle cx="50" cy="50" r="3" fill="#52C1FF" opacity="0.5"/>
+  <circle cx="1030" cy="50" r="3" fill="#52C1FF" opacity="0.5"/>
+  <circle cx="50" cy="350" r="3" fill="#52C1FF" opacity="0.5"/>
+  <circle cx="1030" cy="350" r="3" fill="#52C1FF" opacity="0.5"/>
+</svg>
