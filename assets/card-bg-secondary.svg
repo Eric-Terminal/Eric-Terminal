@@ -1,0 +1,22 @@
+<svg width="340" height="320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sec-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#132B4A;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#1A3A5C;stop-opacity:0.95" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="15" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  
+  <!-- 卡片背景 -->
+  <rect x="2" y="2" width="336" height="316" rx="24" ry="24" fill="url(#sec-gradient)" 
+        stroke="rgba(92,180,255,0.35)" stroke-width="1" filter="url(#shadow)"/>
+  
+  <!-- 顶部高光 -->
+  <rect x="2" y="2" width="336" height="60" rx="24" ry="24" fill="rgba(82,193,255,0.08)"/>
+  
+  <!-- 装饰点 -->
+  <circle cx="25" cy="25" r="2" fill="#52C1FF" opacity="0.4"/>
+  <circle cx="315" cy="295" r="2" fill="#52C1FF" opacity="0.4"/>
+</svg>

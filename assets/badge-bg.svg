@@ -1,0 +1,15 @@
+<svg width="200" height="40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="badge-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(82,193,255,0.18);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(82,193,255,0.25);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 徽章背景 -->
+  <rect x="1" y="1" width="198" height="38" rx="18" ry="18" fill="url(#badge-gradient)" 
+        stroke="rgba(122,196,255,0.38)" stroke-width="1"/>
+  
+  <!-- 内部高光 -->
+  <rect x="1" y="1" width="198" height="15" rx="18" ry="18" fill="rgba(255,255,255,0.05)"/>
+</svg>
