@@ -99,6 +99,17 @@
 
 ---
 
+### 📝 近期动态 // RECENT ACTIVITY
+
+<div align="center">
+
+<!-- activity:START -->
+<!-- activity:END -->
+
+</div>
+
+---
+
 <div align="center">
   <p>
     <a href="mailto:ericterminal@gmail.com">
