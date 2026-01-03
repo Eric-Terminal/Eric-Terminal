@@ -71,16 +71,8 @@
 ### 📊 摸鱼统计 // STATS
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&theme=default&hide_border=true">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&theme=tokyonight&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&theme=default&hide_border=true">
-    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&theme=tokyonight&hide_border=true">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF" alt="Eric's Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF" alt="Top Languages" height="160" />
 </div>
 
 <br>
