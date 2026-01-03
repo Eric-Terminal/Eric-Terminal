@@ -71,7 +71,7 @@
 ### 📊 摸鱼统计 // STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eric-Terminal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF" alt="Eric's Stats" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Eric-Terminal&theme=tokyonight&hide_border=true&background=0D1117&ring=33C1FF&fire=33C1FF" alt="GitHub Streak" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Terminal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=33C1FF&icon_color=33C1FF" alt="Top Languages" height="160" />
 </div>
 
