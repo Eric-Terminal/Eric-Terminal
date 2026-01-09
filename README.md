@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<!-- activity:START -->> Eric-Terminal commented on an issue in ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:33 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:21 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:14 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 2:31 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Sat Jan 03 2026 6:16 AM$)`<!-- activity:END -->
+<!-- activity:START -->> Eric-Terminal commented on an issue in Cognitive-Hijacking-in-Long-Context-LLMs$ - `(Fri Jan 09 2026 4:59 PM$)`> Eric-Terminal commented on an issue in ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:33 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:21 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 3:14 PM$)`> Eric-Terminal pushed ETOS-LLM-Studio$ - `(Fri Jan 09 2026 2:31 PM$)`<!-- activity:END -->
 
 </div>
 
