@@ -39,10 +39,10 @@
 
 👋 嘿，我是 **Eric**。一名高中生开发者。
 
-*   **🍎 Apple 全家桶用户**：专注于 Apple 生态开发 (Swift)，ETOS 是我的主要阵地。
-*   **🗑️ 赛博拾荒者 (Cyber Scavenger)**：热衷于让“电子垃圾”焕发第二春。E900V22D 刷 Armbian 跑 Docker，红米 R3P 刷 OpenWrt 做主路由，压榨每一分硬件性能是我的乐趣。
-*   **🔍 底层观察者**：比起黑盒 API，我更信任 **IDA Pro** 的反汇编窗口和 **Wireshark** 的抓包列表。只有亲眼看到 Hex，我才觉得安全。
-*   **📡 无线电操作员**：UV-K6 手持对讲机玩家，HAM，随时准备捕捉空气中的电波。
+*   **🍎 Apple 全家桶用户**：专注于 Apple 生态开发 (Swift)，ETOS LLM Studio 是我的主要阵地。
+*   **🗑️ 赛博拾荒者 (Cyber Scavenger)**：热衷于让“电子垃圾”焕发第二春。E900V22D 刷 Armbian 跑 Docker，小米 R3P 刷 OpenWrt 做主路由。
+*   **🔬 Bit-level 观察者**：拒绝黑盒。从 **802.11 帧结构** 到 **TCP/IP** 握手，从 **RSA/ECC/Ed25519** 的数学基石到 **Transformer** 的注意力矩阵，我只相信底层逻辑。
+*   **📡 无线电操作员**：HAM，玩转各式电台，捕捉并探索空气中无形的频谱。
 
 ---
 
@@ -50,11 +50,11 @@
 
 <div align="center">
 
-| **⌚ ETOS LLM Studio** | **🛠️ Hardware Resurrection** | **🛡️ Protocol Analysis** |
+| **⌚ ETOS LLM Studio** | **🛠️ Hardware Resurrection** | **🧠 Core & Security** |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Platform-watchOS-000000?style=flat&logo=apple" /> | <img src="https://img.shields.io/badge/System-Armbian_%2F_OpenWrt-F38020?style=flat&logo=linux" /> | <img src="https://img.shields.io/badge/Tool-Wireshark_%2F_IDA-0065A9?style=flat&logo=wireshark" /> |
-| **旗舰作品。**<br>Apple Watch 大模型客户端。<br>SwiftUI 与 LLM 的优雅结合。 | **硬件重铸。**<br>电视盒子 -> Armbian 集群<br>光猫/路由 -> OpenWrt 网关<br>低成本家庭数据中心构建者。 | **逆向与审计。**<br>无线电协议分析<br>二进制文件逆向 (IDA)<br>网络流量取证 |
-| [查看仓库](https://github.com/Eric-Terminal/ETOS-LLM-Studio) | [访问个人主页](https://ericterminal.com) | **Researching...** |
+| <img src="https://img.shields.io/badge/Platform-iOS_%7C_watchOS-000000?style=flat&logo=apple" /> | <img src="https://img.shields.io/badge/System-Armbian_%2F_OpenWrt-F38020?style=flat&logo=linux" /> | <img src="https://img.shields.io/badge/Focus-Crypto_%2F_Bit--level-61DAFB?style=flat&logo=hackthebox" /> |
+| **旗舰作品。**<br>跨平台大模型客户端。<br>iOS 优雅体验与 watchOS 随身智能。 | **硬件重铸。**<br>电视盒子 -> Armbian 集群<br>光猫/路由 -> OpenWrt 网关<br>低成本家庭数据中心构建者。 | **底层原理与安全。**<br>RSA/ECC/Ed25519 密码学审计<br>802.11 协议攻防 & 流量取证<br>Transformer 架构 & 注入研究 |
+| [查看仓库](https://github.com/Eric-Terminal/ETOS-LLM-Studio) | [访问个人主页](https://ericterminal.com) | **[Security Research](https://github.com/Eric-Terminal?tab=repositories)** |
 
 </div>
 
@@ -85,7 +85,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/foxcyber907/foxcyber907/output/snake.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/snake.svg" alt="Snake animation" width="100%">
 </div>
 
 ---
