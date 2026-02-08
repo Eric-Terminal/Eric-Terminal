@@ -85,6 +85,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/snake.svg" alt="Snake animation" width="100%">
 </div>
 
