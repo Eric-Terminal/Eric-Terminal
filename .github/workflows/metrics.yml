@@ -31,12 +31,17 @@ jobs:
 
           # 插件：显示代码行数（包含私有仓库）
           plugin_lines: yes
-          plugin_lines_sections: base
+          plugin_lines_sections: base, repositories, history
+          
+          # 插件：详细仓库统计
+          plugin_repositories: yes
+          plugin_repositories_featured: ETOS-LLM-Studio
           
           # 插件：语言分布
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
           
           # 插件：成就勋章
