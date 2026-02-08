@@ -1,0 +1,47 @@
+name: Metrics
+on:
+  # 每 12 小时更新一次
+  schedule: [{cron: "0 */12 * * *"}]
+  # 支持手动触发
+  workflow_dispatch:
+  # 推送到主分支时更新
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 你的 Token 名字，需要你在 Secret 中设置
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 配置
+          user: Eric-Terminal
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          
+          # 写入的分支
+          output_action: commit
+          committer_branch: output
+          committer_message: "chore: update metrics"
+
+          # 插件：显示代码行数（包含私有仓库）
+          plugin_lines: yes
+          plugin_lines_sections: base
+          
+          # 插件：语言分布
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # 插件：成就勋章
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 10
