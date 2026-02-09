@@ -17,6 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          repositories_affiliations: owner, collaborator
           
           output_action: commit
           committer_branch: output
