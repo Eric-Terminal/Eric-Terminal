@@ -9,10 +9,6 @@
 
 </div>
 
-<img src="assets/section-divider.svg" width="100%" />
-
----
-
 ### 关于我
 
 > *刃は鞘に、心は花に*
