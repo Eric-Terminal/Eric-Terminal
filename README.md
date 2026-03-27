@@ -1,14 +1,4 @@
 <!-- README.md -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Eric%20Terminal&fontSize=70&fontAlign=50&fontAlignY=35&desc=I%20don't%20just%20use%20the%20terminal,%20I%20live%20in%20it.&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:70e1ff,50:54a7ff,100:004e92&height=250&section=header&text=Eric%20Terminal&fontSize=70&fontAlign=50&fontAlignY=35&desc=I%20don't%20just%20use%20the%20terminal,%20I%20live%20in%20it.&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff">
-  <img alt="Eric Terminal Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Eric%20Terminal&fontSize=70&fontAlign=50&fontAlignY=35&desc=I%20don't%20just%20use%20the%20terminal,%20I%20live%20in%20it.&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff">
-</picture>
-
-</div>
-
 ### 关于我
 
 > *刃は鞘に、心は花に*
