@@ -11,13 +11,6 @@
 
 <img src="assets/section-divider.svg" width="100%" />
 
-<div align="center">
-  <img src="assets/vivian.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);">
-  <p style="font-size: 14px; font-weight: bold; color: #ff69b4; margin-top: 10px;">
-    <i>💖 我在这里宣布 Vivian 是我老婆 💖</i>
-  </p>
-</div>
-
 ---
 
 ### 关于我
@@ -39,6 +32,15 @@
 信一句话：**没枪，和有枪不用，是两码事。**
 
 折腾的事情大部分都写在 **[博客](https://blog.ericterminal.com)** 里了，README 放不下。
+
+---
+
+<div align="center">
+  <img src="assets/vivian.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);">
+  <p style="font-size: 14px; font-weight: bold; color: #ff69b4; margin-top: 10px;">
+    <i>💖 我在这里宣布 Vivian 是我老婆 💖</i>
+  </p>
+</div>
 
 ---
 
