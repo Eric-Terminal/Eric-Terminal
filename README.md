@@ -7,12 +7,6 @@
   <img alt="Eric Terminal Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Eric%20Terminal&fontSize=70&fontAlign=50&fontAlignY=35&desc=I%20don't%20just%20use%20the%20terminal,%20I%20live%20in%20it.&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff">
 </picture>
 
-<h3 style="margin-top: -20px;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=33C1FF&center=true&vCenter=true&width=500&lines=Apple+Ecosystem+Developer;Cyber+Scavenger+(Hardware+Modder);Network+%26+Packet+Analyst;Radio+Amateur+(HAM)" alt="Typing SVG" />
-  </a>
-</h3>
-
 <br/>
 
 </div>
