@@ -1,7 +1,8 @@
 name: Metrics
 on:
-  # 临时止血：暂停自动触发，避免持续失败刷邮件
+  schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,9 +23,8 @@ jobs:
           committer_branch: output
           committer_message: "chore: update metrics (simplified)"
 
-          # 插件：只显示总代码行数，不显示仓库列表（保护隐私）
-          plugin_lines: yes
-          plugin_lines_sections: base # 关键：只保留 base 统计，不加 repositories 细节
+          # 临时修复：关闭 lines 插件，规避上游在空 author 数据上的崩溃
+          plugin_lines: no
           
           # 插件：语言分布
           plugin_languages: yes
