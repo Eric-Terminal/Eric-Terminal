@@ -7,8 +7,6 @@
   <img alt="Eric Terminal Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Eric%20Terminal&fontSize=70&fontAlign=50&fontAlignY=35&desc=I%20don't%20just%20use%20the%20terminal,%20I%20live%20in%20it.&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff">
 </picture>
 
-<br/>
-
 </div>
 
 <img src="assets/section-divider.svg" width="100%" />
