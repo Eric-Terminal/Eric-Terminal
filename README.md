@@ -13,12 +13,6 @@
   </a>
 </h3>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Daily_Driver-macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Editor-VS_Code_%7C_Xcode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Weapon-IDA_%7C_Wireshark-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
-
 <br/>
 
 </div>
