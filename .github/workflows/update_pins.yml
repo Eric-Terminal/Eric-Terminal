@@ -24,6 +24,5 @@ jobs:
           committer_email: 'github-actions[bot]@users.noreply.github.com'
           comment_tag_name: "activity"
           max_post_count: 5
-          template: "> $title - `($date)`"
           retry_count: 3
           retry_wait_time: 10
