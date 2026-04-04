@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/76f9f107fc...3db32e018f)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/2a69f5c2c3...1f8505fe01)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/6a833c50e6...76f9f107fc)
 - [Eric-Terminal pushed Eric-Terminal](https://github.com/Eric-Terminal/Eric-Terminal/compare/718b110122...fc9fcfd565)
-- [Eric-Terminal pushed Eric-Terminal](https://github.com/Eric-Terminal/Eric-Terminal/compare/55a2bf2357...ce8d873ae5)
 <!-- activity:END -->
 
 </div>
