@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/1a29830564...0d2ba1f2fc)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/b1a2b9cbd0...1a29830564)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/176271a728...b1a2b9cbd0)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/f752301920...176271a728)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/d0b55fb739...f752301920)
+- [Eric-Terminal closed a pull request in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/40)
+- [Eric-Terminal closed a pull request in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/41)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/45)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/47)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/48)
 <!-- activity:END -->
 
 </div>
