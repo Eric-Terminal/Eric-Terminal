@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred anthropics/skills](https://github.com/anthropics/skills)
 - [Eric-Terminal pushed els-feedback-proxy](https://github.com/Eric-Terminal/els-feedback-proxy/compare/26e4797f07...dfa4ec969c)
 - [Eric-Terminal pushed els-feedback-proxy](https://github.com/Eric-Terminal/els-feedback-proxy/compare/b097cff2fc...26e4797f07)
 - [Eric-Terminal pushed els-feedback-proxy](https://github.com/Eric-Terminal/els-feedback-proxy/compare/0d57387b04...b097cff2fc)
 - [Eric-Terminal pushed els-feedback-proxy](https://github.com/Eric-Terminal/els-feedback-proxy/compare/3af7522429...0d57387b04)
-- [Eric-Terminal starred vuejs/vitepress](https://github.com/vuejs/vitepress)
 <!-- activity:END -->
 
 </div>
