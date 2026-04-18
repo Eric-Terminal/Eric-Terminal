@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred openai/codex](https://github.com/openai/codex)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/dedaef7f05...5dc0e9585b)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/e707c078d2...dedaef7f05)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/6b59f171d1...663345790a)
 - [Eric-Terminal created a branch](https://github.com/chengjun4538-hash/lingduai/compare/0000000000...e707c078d2)
-- [Eric-Terminal added Eric-Terminal to chengjun4538-hash/lingduai](https://github.com/chengjun4538-hash/lingduai)
 <!-- activity:END -->
 
 </div>
