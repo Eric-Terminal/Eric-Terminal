@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/Eric-Terminal/Eric-Terminal/output/github-metrics.svg" alt="GitHub Metrics">
 </div>
 
 <div align="center">
