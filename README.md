@@ -91,11 +91,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/35c25ca8be...03ed364c3a)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/f6af62edb2...3cef3a1b4a)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/052435fe13...f6af62edb2)
 - [Eric-Terminal starred YzmmQwQ/Rishu-Website](https://github.com/YzmmQwQ/Rishu-Website)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e01b77a4a9...052435fe13)
-- [Eric-Terminal starred lobehub/lobehub](https://github.com/lobehub/lobehub)
 <!-- activity:END -->
 
 </div>
