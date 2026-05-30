@@ -91,11 +91,11 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/240ee04833...3e2b1e916d)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/2641761c87...240ee04833)
-- [Eric-Terminal pushed mcp-streamable-http-gateway](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/30440d670a...f7dc2134c4)
-- [Eric-Terminal pushed mcp-streamable-http-gateway](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/643184dd87...30440d670a)
-- [Eric-Terminal created a branch](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/0000000000...643184dd87)
+- [Eric-Terminal opened an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/76)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e01b77a4a9...a4bfca29f2)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7b74b279a4...a4bfca29f2)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/73)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/3e2b1e916d...7b74b279a4)
 <!-- activity:END -->
 
 </div>
