@@ -91,11 +91,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal forked Eric-Terminal/llama.cpp from ggml-org/llama.cpp](https://github.com/Eric-Terminal/llama.cpp)
+- [Eric-Terminal starred ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 - [Eric-Terminal opened an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/76)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e01b77a4a9...a4bfca29f2)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7b74b279a4...a4bfca29f2)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/73)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/3e2b1e916d...7b74b279a4)
 <!-- activity:END -->
 
 </div>
