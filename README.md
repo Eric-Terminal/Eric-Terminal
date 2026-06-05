@@ -4,18 +4,21 @@
 > *刃は鞘に、心は花に*
 
 高二，住在终端里。对虚假营销和空洞概念过敏，喜欢把东西研究到底层再放手。
+喜欢终端那种硬核的界面风格，爱用CLI程序，故名Eric-Terminal
+讨厌虚假的营销套路和空洞的概念，喜欢把硬核的东西研究透，不然心里会一直憋着
 
-做了个跨平台大模型客户端 [ETOS LLM Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio)，iOS + watchOS，原因很简单——我需要在手表上随时用 AI，没有就自己写一个。
+旗舰项目应该是做了个跨平台大模型客户端 [ETOS LLM Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio)，Swift写的，因为watchOS上面没有功能全的AI客户端，而我又喜欢随时随地有问题问AI，在学校只有手表，所以就做了这个
 
-博客太懒得用电脑发，又给博客写了个 MCP 接口，现在手表直接推文章。
+博客没什么时间用电脑发，又给博客写了个MCP接口，现在手表直接推文章。
 
-喜欢研究底层的东西：密码学（从 RSA 的大数分解到 ECC 的椭圆曲线群、Dragonfly 握手）、各种 RFC 标准、802.11 帧结构、Transformer 的注意力矩阵……不是为了炫，是因为黑盒让我不安。
+喜欢研究底层的东西：密码学（从RSA的大数分解到ECC的椭圆曲线群、Dragonfly握手等等）、各种RFC标准、比如OSI七层各种协议全贯通，还有AI相关的Transformer架构etc.
 
-垃圾佬，把电视盒子刷成 Armbian、光猫刷成 OpenWrt，服务跑在自己的机器上才踏实。也是 HAM，有空就扫一扫频谱。
+垃圾佬，把电视盒子刷成 Armbian、路由器刷成 OpenWrt，性能压榨到极致。也是HAM，有空就扫一扫频谱。
 
-非常喜欢用 AI，追求全面自动化，每天和 AI 讲的话比和人讲的多。
+非常喜欢用AI，追求全面自动化，每天和AI讲的话比和人讲的多。
+激进的Vibe Coding派别，很久没有亲手写过代码了。
 
-信一句话：**没枪，和有枪不用，是两码事。**
+最喜欢一句话：**没枪，和有枪不用，是两码事。**
 
 折腾的事情大部分都写在 **[博客](https://blog.ericterminal.com)** 里了，README 放不下。
 
@@ -91,11 +94,6 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/9f532a2bbb...bbe211b124)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7ce22d2f93...9f532a2bbb)
-- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/6c01c9629d...9f81de07c6)
-- [Eric-Terminal closed an issue in Pro_llm_correct](https://github.com/Eric-Terminal/Pro_llm_correct/issues/1)
-- [Eric-Terminal pushed Pro_llm_correct](https://github.com/Eric-Terminal/Pro_llm_correct/compare/e8045dcf5f...1dfd3dbdd3)
 <!-- activity:END -->
 
 </div>
