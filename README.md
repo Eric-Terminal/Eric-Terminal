@@ -95,10 +95,10 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/535f593f59...ed4f334c8e)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/82)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/4cae3f590d...0fc5a1ff1b)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/4cae3f590d...0fc5a1ff1b)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e309fdcd88...4cae3f590d)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e309fdcd88...4cae3f590d)
 <!-- activity:END -->
 
