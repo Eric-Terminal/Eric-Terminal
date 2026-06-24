@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/58279b5f99...708ed20cb2)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/58279b5f99...708ed20cb2)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/d403969064...918aea1564)
 - [Eric-Terminal pushed PiliPlus](https://github.com/Eric-Terminal/PiliPlus/compare/28e5432c06...e116507e20)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/ed4f334c8e...d403969064)
-- [Eric-Terminal pushed PiliPlus](https://github.com/Eric-Terminal/PiliPlus/compare/8a4d0f0a92...28e5432c06)
-- [Eric-Terminal starred chen2he/orange-cloud](https://github.com/chen2he/orange-cloud)
 <!-- activity:END -->
 
 </div>
