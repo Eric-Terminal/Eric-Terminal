@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/6a2b52c0e1...e6c66f01ba)
+- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/ec151ed87d...6a2b52c0e1)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/708ed20cb2...aab0634573)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/918aea1564...ec151ed87d)
 - [Eric-Terminal created a branch](https://github.com/Eric-Terminal/new-api/compare/0000000000...44e2c2b0be)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/85)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/87)
 <!-- activity:END -->
 
 </div>
