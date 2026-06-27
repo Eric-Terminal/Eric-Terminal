@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0ba25f7018...2ae832013b)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0ba25f7018...2ae832013b)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/91)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/92)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/aab0634573...0ba25f7018)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/708ed20cb2...0ba25f7018)
-- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/6a2b52c0e1...e6c66f01ba)
-- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/ec151ed87d...6a2b52c0e1)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/708ed20cb2...aab0634573)
 <!-- activity:END -->
 
 </div>
