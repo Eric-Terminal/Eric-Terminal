@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/83)
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/90)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0ba25f7018...2ae832013b)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0ba25f7018...2ae832013b)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/91)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/92)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/aab0634573...0ba25f7018)
 <!-- activity:END -->
 
 </div>
