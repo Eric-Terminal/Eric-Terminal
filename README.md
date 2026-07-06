@@ -95,11 +95,6 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed orange-cloud](https://github.com/Eric-Terminal/orange-cloud/compare/02f81eba43...51128bd1af)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/6aff776fa4...1cd22cc01d)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/6aff776fa4...1cd22cc01d)
-- [Eric-Terminal pushed orange-cloud](https://github.com/Eric-Terminal/orange-cloud/compare/ac53a8c943...02f81eba43)
-- [Eric-Terminal pushed orange-cloud](https://github.com/Eric-Terminal/orange-cloud/compare/342b368e0a...ac53a8c943)
 <!-- activity:END -->
 
 </div>
@@ -166,8 +161,8 @@ jJ3QfJPt8X8pdAD+OYYMBWWBaE9UiwBvDuH2hThmjJ327VDAuCrqMDYux9AA/2n2
 
 <div align="center">
   <p>
-    <a href="mailto:ericterminal@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ericterminal@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <a href="mailto:ericterminal@ericterminal.com">
+      <img src="https://img.shields.io/badge/Email-ericterminal@ericterminal.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://blog.ericterminal.com">
       <img src="https://img.shields.io/badge/Blog-blog.ericterminal.com-33C1FF?style=flat-square&logo=safari&logoColor=white" />
