@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/7a8c500f4e...2f90475ecf)
 - [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/05deeac2c9...006589326f)
 - [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/6dca4d5a3e...05deeac2c9)
 - [Eric-Terminal starred xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader)
 - [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/036605e40a...6dca4d5a3e)
-- [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/4c16a820d8...036605e40a)
 <!-- activity:END -->
 
 </div>
