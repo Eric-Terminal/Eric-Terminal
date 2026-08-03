@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/110)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/112)
-- [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/113#issuecomment-5165814282)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/113)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/6a520dd296...378cc7c717)
+- [Eric-Terminal commented on pull request Eric-Terminal/ETOS-LLM-Studio#111](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/111#discussion_r3706157161)
+- [Eric-Terminal commented on pull request Eric-Terminal/ETOS-LLM-Studio#111](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/111#discussion_r3706133572)
+- [Eric-Terminal commented on pull request Eric-Terminal/ETOS-LLM-Studio#111](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/111#discussion_r3706126809)
+- [Eric-Terminal commented on pull request Eric-Terminal/ETOS-LLM-Studio#111](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/111#discussion_r3706124525)
+- [Eric-Terminal commented on pull request Eric-Terminal/ETOS-LLM-Studio#111](https://github.com/Eric-Terminal/ETOS-LLM-Studio/pull/111#discussion_r3706120085)
 <!-- activity:END -->
 
 </div>
