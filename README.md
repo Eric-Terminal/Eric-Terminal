@@ -11,11 +11,11 @@
 
 博客没什么时间用电脑发，又给博客写了个 MCP 接口，现在手表直接推文章。
 
-喜欢研究底层的东西：密码学（从RSA的大数分解到 ECC 的椭圆曲线群、Dragonfly 握手等等）、各种RFC标准、比如OSI七层各种协议全贯通，还有 AI 相关的 Transformer架构etc.
+喜欢研究底层的东西：密码学（从RSA的大数分解到 ECC 的椭圆曲线群、Dragonfly 握手等等）、各种 RFC 标准、比如 OSI 七层各种协议全贯通，还有 AI 相关的 Transformer 架构 etc .
 
 垃圾佬，把电视盒子刷成 Armbian、路由器刷成 OpenWrt，性能压榨到极致。也是 HAM ，有空就扫一扫频谱。
 
-非常喜欢用 AI，追求全面自动化，每天和AI讲的话比和人讲的多。
+非常喜欢用 AI，追求全面自动化，每天和 AI 讲的话比和人讲的多。
 
 激进的 Vibe Coding 派程序员，很久没有亲手写过代码了，喜欢编译型语言。
 
@@ -118,7 +118,7 @@
 **指纹：** `DDFF BE9D 6D4A DA9C D70B C36D 8C9D D07C 93ED F17F`
 
 <details>
-<summary>📋 展开查看完整公钥</summary>
+<summary>展开查看完整公钥</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
