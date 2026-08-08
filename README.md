@@ -7,7 +7,7 @@
 
 讨厌虚假的营销套路和空洞的概念，喜欢把硬核的东西研究透，不然心里会一直憋着。
 
-旗舰项目应该是做了个跨平台大模型客户端 [ETOS LLM Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio)，Swift写的，因为watchOS上面没有功能全的AI客户端，而我又喜欢随时随地有问题问AI，在学校只有手表，所以就做了这个
+旗舰项目应该是做了个跨平台大模型客户端 [ETOS LLM Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio)，Swift 写的，因为 watchOS 上面没有功能全的AI客户端，而我又喜欢随时随地有问题问 AI ，在学校只有手表，所以就做了这个
 
 博客没什么时间用电脑发，又给博客写了个 MCP 接口，现在手表直接推文章。
 
