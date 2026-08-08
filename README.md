@@ -3,21 +3,21 @@
 
 > *刃は鞘に、心は花に*
 
-喜欢终端那种硬核的界面风格，爱用CLI和TUI程序，故名Eric-Terminal。
+喜欢终端那种硬核的界面风格，爱用 CLI 和 TUI 程序，故名 Eric-Terminal 。
 
 讨厌虚假的营销套路和空洞的概念，喜欢把硬核的东西研究透，不然心里会一直憋着。
 
 旗舰项目应该是做了个跨平台大模型客户端 [ETOS LLM Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio)，Swift写的，因为watchOS上面没有功能全的AI客户端，而我又喜欢随时随地有问题问AI，在学校只有手表，所以就做了这个
 
-博客没什么时间用电脑发，又给博客写了个MCP接口，现在手表直接推文章。
+博客没什么时间用电脑发，又给博客写了个 MCP 接口，现在手表直接推文章。
 
-喜欢研究底层的东西：密码学（从RSA的大数分解到ECC的椭圆曲线群、Dragonfly握手等等）、各种RFC标准、比如OSI七层各种协议全贯通，还有AI相关的Transformer架构etc.
+喜欢研究底层的东西：密码学（从RSA的大数分解到 ECC 的椭圆曲线群、Dragonfly 握手等等）、各种RFC标准、比如OSI七层各种协议全贯通，还有 AI 相关的 Transformer架构etc.
 
-垃圾佬，把电视盒子刷成 Armbian、路由器刷成 OpenWrt，性能压榨到极致。也是HAM，有空就扫一扫频谱。
+垃圾佬，把电视盒子刷成 Armbian、路由器刷成 OpenWrt，性能压榨到极致。也是 HAM ，有空就扫一扫频谱。
 
-非常喜欢用AI，追求全面自动化，每天和AI讲的话比和人讲的多。
+非常喜欢用 AI，追求全面自动化，每天和AI讲的话比和人讲的多。
 
-激进的Vibe Coding派程序员，很久没有亲手写过代码了，喜欢编译型语言。
+激进的 Vibe Coding 派程序员，很久没有亲手写过代码了，喜欢编译型语言。
 
 最喜欢一句话：**没枪，和有枪不用，是两码事。**
 
@@ -95,11 +95,6 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e3635bead9...7ce4336575)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/301ecd016a...e3635bead9)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7d739414ec...301ecd016a)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7fbcf1683d...7d739414ec)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/11df10cfb8...49d19291e2)
 <!-- activity:END -->
 
 </div>
@@ -166,8 +161,8 @@ jJ3QfJPt8X8pdAD+OYYMBWWBaE9UiwBvDuH2hThmjJ327VDAuCrqMDYux9AA/2n2
 
 <div align="center">
   <p>
-    <a href="mailto:ericterminal@ericterminal.com">
-      <img src="https://img.shields.io/badge/Email-ericterminal@ericterminal.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <a href="mailto:contact@ericterminal.com">
+      <img src="https://img.shields.io/badge/Email-contact@ericterminal.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://blog.ericterminal.com">
       <img src="https://img.shields.io/badge/Blog-blog.ericterminal.com-33C1FF?style=flat-square&logo=safari&logoColor=white" />
