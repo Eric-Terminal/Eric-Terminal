@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0f19480a84...bc1101edd1)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0f19480a84...bc1101edd1)
 - [Eric-Terminal pushed colibri](https://github.com/Eric-Terminal/colibri/compare/b3e6a9ff2d...7dbdccbc79)
 - [Eric-Terminal pushed colibri](https://github.com/Eric-Terminal/colibri/compare/d76312c1ae...b3e6a9ff2d)
 - [Eric-Terminal created a branch](https://github.com/Eric-Terminal/colibri/compare/0000000000...d76312c1ae)
-- [Eric-Terminal forked Eric-Terminal/colibri from JustVugg/colibri](https://github.com/Eric-Terminal/colibri)
-- [Eric-Terminal starred JustVugg/colibri](https://github.com/JustVugg/colibri)
 <!-- activity:END -->
 
 </div>
