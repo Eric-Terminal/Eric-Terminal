@@ -99,7 +99,7 @@
 - [Eric-Terminal deleted](https://github.com/Eric-Terminal/EssayGrader/compare/6202593b96...0000000000)
 - [Eric-Terminal pushed EssayGrader](https://github.com/Eric-Terminal/EssayGrader/compare/68982b3764...9f5b91fb4c)
 - [Eric-Terminal pushed EssayGrader](https://github.com/Eric-Terminal/EssayGrader/compare/7cb6840fba...68982b3764)
-- [Eric-Terminal pushed EssayGrader](https://github.com/Eric-Terminal/EssayGrader/compare/2d694d34c0...7cb6840fba)
+- [Eric-Terminal deleted](https://github.com/Eric-Terminal/EssayGrader/compare/8f8227f5f4...0000000000)
 <!-- activity:END -->
 
 </div>
