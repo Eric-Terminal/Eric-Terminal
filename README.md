@@ -99,7 +99,7 @@
 - [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/90c1923a35...3c4fe752fd)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/353730368e...0fd26f1638)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/39fe5f29eb...353730368e)
-- [Eric-Terminal starred chen08209/FlClash](https://github.com/chen08209/FlClash)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/39fe5f29eb...353730368e)
 <!-- activity:END -->
 
 </div>
