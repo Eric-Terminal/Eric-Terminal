@@ -99,7 +99,7 @@
 - [Eric-Terminal starred nmn999999999/LumenAI](https://github.com/nmn999999999/LumenAI)
 - [Eric-Terminal pushed clash-verge-rev](https://github.com/Eric-Terminal/clash-verge-rev/compare/b178181761...2a29957c78)
 - [Eric-Terminal pushed clash-verge-rev](https://github.com/Eric-Terminal/clash-verge-rev/compare/54f703e9e4...02405122fa)
-- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/72041a25a9...f0e1e68479)
+- [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/9db689d458...acb0f52f2f)
 <!-- activity:END -->
 
 </div>
