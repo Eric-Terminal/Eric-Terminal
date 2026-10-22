@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/1a0b784778...5c47bed89c)
+- [Eric-Terminal created a branch](https://github.com/Eric-Terminal/cc-switch/compare/0000000000...7aaeb3af5b)
 - [Eric-Terminal created a branch](https://github.com/Eric-Terminal/clash-verge-rev/compare/0000000000...5fe553181f)
 - [Eric-Terminal pushed mcp-streamable-http-gateway](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/3a3d6d948d...a24e876dbb)
 - [Eric-Terminal pushed mcp-streamable-http-gateway](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/f7dc2134c4...3a3d6d948d)
-- [Eric-Terminal pushed els-feedback-proxy](https://github.com/Eric-Terminal/els-feedback-proxy/compare/b9cccbda4a...2eaf00e9b6)
-- [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/59d54bab35...5c47bed89c)
 <!-- activity:END -->
 
 </div>
