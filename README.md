@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal created a branch](https://github.com/Eric-Terminal/clash-verge-rev/compare/0000000000...5fe553181f)
+- [Eric-Terminal pushed mcp-streamable-http-gateway](https://github.com/Eric-Terminal/mcp-streamable-http-gateway/compare/3a3d6d948d...a24e876dbb)
 - [Eric-Terminal pushed lingduai](https://github.com/chengjun4538-hash/lingduai/compare/59d54bab35...5c47bed89c)
 - [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/03bf943175...4e91ef3986)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/dfab48e259...7d008baa0d)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/dfab48e259...7d008baa0d)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/38094a16f3...dfab48e259)
+- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/f0e1e68479...03bf943175)
 <!-- activity:END -->
 
 </div>
