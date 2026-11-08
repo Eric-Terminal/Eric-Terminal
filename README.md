@@ -98,8 +98,8 @@
 - [Eric-Terminal released v1.3.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.3.0)
 - [Eric-Terminal released v1.2.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.2.0)
 - [Eric-Terminal released v1.1.1 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.1.1)
+- [Eric-Terminal pushed iina-dglab](https://github.com/Eric-Terminal/iina-dglab/compare/b230381887...6c53f7bc07)
 - [Eric-Terminal released v1.1.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.1.0)
-- [Eric-Terminal pushed iina-dglab](https://github.com/Eric-Terminal/iina-dglab/compare/304a5b9fea...b230381887)
 <!-- activity:END -->
 
 </div>
