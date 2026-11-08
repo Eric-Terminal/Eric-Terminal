@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/7eee2f2e13...c9149e4927)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/0e78c21638...7eee2f2e13)
-- [Eric-Terminal pushed ish-multiarch](https://github.com/Eric-Terminal/ish-multiarch/compare/acb0f52f2f...21ff1b34b9)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/5118339154...978cb7e4c6)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/5118339154...978cb7e4c6)
+- [Eric-Terminal released v1.3.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.3.0)
+- [Eric-Terminal released v1.2.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.2.0)
+- [Eric-Terminal released v1.1.1 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.1.1)
+- [Eric-Terminal released v1.1.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.1.0)
+- [Eric-Terminal pushed iina-dglab](https://github.com/Eric-Terminal/iina-dglab/compare/304a5b9fea...b230381887)
 <!-- activity:END -->
 
 </div>
