@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/159)
+- [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/159#issuecomment-6732858570)
 - [Eric-Terminal released v1.3.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.3.0)
 - [Eric-Terminal pushed iina-dglab](https://github.com/Eric-Terminal/iina-dglab/compare/1047d4efae...755e764d54)
 - [Eric-Terminal released v1.2.0 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.2.0)
-- [Eric-Terminal released v1.1.1 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.1.1)
-- [Eric-Terminal pushed iina-dglab](https://github.com/Eric-Terminal/iina-dglab/compare/b230381887...6c53f7bc07)
 <!-- activity:END -->
 
 </div>
