@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [Eric-Terminal starred CXP-2024/gpt-anime-denoise](https://github.com/CXP-2024/gpt-anime-denoise)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/160)
 - [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/160#issuecomment-6878230908)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/163)
-- [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/163#issuecomment-6878112997)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/e23243c53c...c6a3eeac28)
 <!-- activity:END -->
 
 </div>
