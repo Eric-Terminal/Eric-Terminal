@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal released v1.3.2 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.3.2)
+- [Eric-Terminal released v1.3.1 at Eric-Terminal/iina-dglab](https://github.com/Eric-Terminal/iina-dglab/releases/tag/v1.3.1)
 - [Eric-Terminal starred Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [Eric-Terminal starred CXP-2024/gpt-anime-denoise](https://github.com/CXP-2024/gpt-anime-denoise)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/160)
-- [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/160#issuecomment-6878230908)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/163)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/c6a3eeac28...1baf7bed7a)
 <!-- activity:END -->
 
 </div>
