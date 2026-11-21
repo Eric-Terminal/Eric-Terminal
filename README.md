@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred havenicec/google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper)
+- [Eric-Terminal forked Eric-Terminal/gpt-anime-denoise from CXP-2024/gpt-anime-denoise](https://github.com/Eric-Terminal/gpt-anime-denoise)
 - [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/167#issuecomment-7040587809)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/168)
 - [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/168#issuecomment-7040572153)
-- [Eric-Terminal commented on an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/170#issuecomment-7039862914)
-- [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/169)
 <!-- activity:END -->
 
 </div>
