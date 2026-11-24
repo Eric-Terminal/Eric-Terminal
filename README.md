@@ -95,10 +95,10 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal starred Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/181b5c94dd...9b142dc809)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/181b5c94dd...9b142dc809)
 - [Eric-Terminal created a branch](https://github.com/Eric-Terminal/local-mask-editor/compare/0000000000...12fa2f51fd)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/3c7f4034be...181b5c94dd)
 - [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/3c7f4034be...181b5c94dd)
 <!-- activity:END -->
 
