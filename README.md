@@ -95,11 +95,11 @@
 <div align="center">
 
 <!-- activity:START -->
+- [Eric-Terminal pushed dotfiles](https://github.com/Eric-Terminal/dotfiles/compare/5f6c47b085...fa1d911392)
 - [Eric-Terminal starred cxin21/comfyui-chenxin](https://github.com/cxin21/comfyui-chenxin)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/47bef8d303...e473e65a41)
 - [Eric-Terminal closed an issue in ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/issues/171)
-- [Eric-Terminal pushed cf-astro-blog](https://github.com/Eric-Terminal/cf-astro-blog/compare/9718fdee0a...f4c0c11186)
-- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/9b142dc809...bce591a83f)
-- [Eric-Terminal pushed cf-astro-blog](https://github.com/Eric-Terminal/cf-astro-blog/compare/5d45f28822...9718fdee0a)
+- [Eric-Terminal pushed ETOS-LLM-Studio](https://github.com/Eric-Terminal/ETOS-LLM-Studio/compare/bce591a83f...47bef8d303)
 <!-- activity:END -->
 
 </div>
